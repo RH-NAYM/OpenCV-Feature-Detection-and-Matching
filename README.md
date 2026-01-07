@@ -1,6 +1,6 @@
 # 💡 Visual Feature Matching & Debugging Toolkit (OpenCV + LightGlue)
 
-[![dev branch](https://img.shields.io/badge/branch-dev-red?style=flat&logo=git&logoColor=white)](https://github.com/RH-NAYM/OpenCV-Feature-Detection-and-Matching/tree/dev)
+[![main branch](https://img.shields.io/badge/branch-main-red?style=flat&logo=git&logoColor=white)](https://github.com/RH-NAYM/OpenCV-Feature-Detection-and-Matching/tree/main)
 
 <p align="center">
   <a href="https://opencv.org/" target="_blank">
