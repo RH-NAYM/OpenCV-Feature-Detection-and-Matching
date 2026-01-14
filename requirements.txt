@@ -13,10 +13,10 @@ opencv-python==4.9.0.80
 # -----------------------------
 # CUDA-enabled PyTorch (DO NOT CHANGE)
 # -----------------------------
-torch==2.2.1+cu121
-torchvision==0.17.1+cu121
-torchaudio==2.2.1+cu121
-
+# torch==2.2.1+cu121
+# torchvision==0.17.1+cu121
+# torchaudio==2.2.1+cu121
+torch
 # -----------------------------
 # Learned feature matching
 # -----------------------------
